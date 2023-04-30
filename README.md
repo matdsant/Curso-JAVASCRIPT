@@ -1,0 +1,2 @@
+# Curso-JAVASCRIPT
+ Este curso de JavaScript e TypeScript é ideal para quem deseja se tornar um desenvolvedor full stack e construir aplicações web completas. O curso aborda tanto o front-end quanto o back-end, ensinando como trabalhar com ferramentas modernas como Webpack, React, Redux, Node, Express, MySQL/MariaDB, MongoDB, PostgreSQL, Next.Js e Strapi. O aluno aprenderá a linguagem de programação JavaScript em detalhes, bem como as nuances do TypeScript.
